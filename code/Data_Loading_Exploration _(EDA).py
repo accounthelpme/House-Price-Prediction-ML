@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("Housing.csv")
+df = pd.read_csv(r"C:\Users\acer\Desktop\project2\code\Housing.csv")
 
 print(df.head())
 print(df.info())
